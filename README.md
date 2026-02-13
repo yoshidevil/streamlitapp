@@ -157,7 +157,7 @@ Through this project, I learned how to:
 ## 👤 Author
 
 * Nikolai Javier Jr.
-* Student / Developer
+  Student / Developer
 
 ## 👤 Github Accounts
 
