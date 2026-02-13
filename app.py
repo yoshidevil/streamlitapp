@@ -13,13 +13,57 @@ st.set_page_config(
 )
 
 # ---------------------------------------------------
-# CUSTOM STYLE
+# CUSTOM STYLE — LAKERS GRADIENT THEME
 # ---------------------------------------------------
 st.markdown("""
     <style>
-    .main {
-        background-color: #f5f7fa;
+
+    /* Main background */
+    .stApp {
+        background: linear-gradient(
+            135deg,
+            #552583 0%,
+            #FDB927 100%
+        );
+        color: white;
     }
+
+    /* Sidebar */
+    section[data-testid="stSidebar"] {
+        background: linear-gradient(
+            180deg,
+            #3C1A5B,
+            #552583
+        );
+        color: white;
+    }
+
+    /* Text */
+    h1, h2, h3, h4, h5, h6, p, label, span {
+        color: white !important;
+    }
+
+    /* Buttons */
+    .stButton>button {
+        background-color: #FDB927;
+        color: black;
+        border-radius: 8px;
+        border: none;
+        font-weight: bold;
+    }
+
+    .stButton>button:hover {
+        background-color: #FFCE4B;
+        color: black;
+    }
+
+    /* Containers */
+    .stMetric, .stDataFrame, .stTable {
+        background-color: rgba(0,0,0,0.25);
+        border-radius: 10px;
+        padding: 10px;
+    }
+
     </style>
 """, unsafe_allow_html=True)
 
