@@ -159,8 +159,10 @@ Through this project, I learned how to:
 Nikolai Javier Jr.
 Student / Developer
 
-with Github Account:
-Yoshi: 
+with My Github Accounts:
+
+Yoshi: https://github.com/yoshidevil
+Peach: https://github.com/iampeachy
 
 ---
 
