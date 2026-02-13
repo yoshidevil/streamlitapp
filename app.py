@@ -7,7 +7,7 @@ import time
 # PAGE CONFIG
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="My Autobiography & Portfolio",
+    page_title="App Biography",
     page_icon="🌟",
     layout="wide"
 )
