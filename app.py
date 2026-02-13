@@ -48,7 +48,7 @@ if page == "🏠 Home":
         st.image("https://via.placeholder.com/250", caption="Your Photo")
 
     with col2:
-        st.header("Hello! I'm Your Name 👋")
+        st.header("Hello! I'm Nikolai Javier Jr. 👋")
         st.write("""
         I am a passionate student who enjoys building applications, analyzing data,
         and learning new technologies.
