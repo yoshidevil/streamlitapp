@@ -89,7 +89,7 @@ if page == "🏠 Home":
     col1, col2 = st.columns([1, 2])
 
     with col1:
-        st.image("05 Yoshi.jpg", caption="Your Photo")
+        st.image("https://via.placeholder.com/250", caption="Your Photo")
 
     with col2:
         st.header("Hello! I'm Nikolai Javier Jr. 👋")
