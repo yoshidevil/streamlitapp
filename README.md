@@ -1,71 +1,169 @@
 # 🌟 Streamlit Autobiography & Portfolio App
 
-This project is a personal interactive autobiography and portfolio website built using **Streamlit**.  
-It showcases my background, skills, projects, and contact information in a clean and user-friendly web interface.
+## 📖 About This Project
 
-The goal of this application is to demonstrate how Streamlit can be used to create interactive web apps using Python — without needing traditional web development frameworks.
+This project is a **personal autobiography and portfolio web application** built using **Streamlit**, a Python framework for creating interactive web apps.
 
----
+The purpose of this project is to present personal background, skills, and projects in an engaging and interactive format. The app demonstrates the use of multiple Streamlit components and layout features to create a visually appealing and user-friendly interface.
 
-## 🎯 Project Objectives
-
-- Present personal autobiography and background
-- Showcase portfolio projects
-- Visualize technical skills
-- Demonstrate Streamlit components and features
-- Provide interactive user engagement
-- Practice UI layout and design using Python
+This project was developed as part of an academic requirement to showcase full utilization of Streamlit features along with aesthetic design and structured content.
 
 ---
 
-## 🚀 Features
+## 🎯 Features
 
-This application uses a wide range of Streamlit components, including:
+The application includes the following interactive sections:
 
-- Sidebar navigation
-- Columns layout
-- Tabs and expanders
-- Interactive forms
-- Sliders and selection widgets
-- File uploader
-- Metrics display
-- Charts and data visualization
-- Progress bar simulation
-- Custom styling
-- Multi-page navigation structure
+### 🏠 Home Page
 
----
-
-## 🧩 App Sections
-
-### 🏠 Home
-Introduction and overview of the portfolio.
+* Profile introduction
+* Quick highlights using metrics
+* Responsive layout with columns
+* Profile image display
 
 ### 👤 About Me
-Personal biography, education, and interests.
+
+* Autobiography section
+* Expandable life story
+* Education selection
+* Interests multi-select
+* Daily productivity slider
 
 ### 📂 Portfolio
-Project showcase with descriptions and uploads.
+
+* Project showcase with tabs
+* Interactive buttons for project details
+* File uploader for project documents
 
 ### 📊 Skills Dashboard
-Data visualization of technical skills and performance.
 
-### 📬 Contact
-Interactive contact form and user feedback.
+* Skill data table
+* Bar chart visualization
+* Line chart simulation
+* Progress bar animation
 
----
+### 📬 Contact Page
 
-## 🛠 Technologies Used
-
-- Python
-- Streamlit
-- Pandas
-- NumPy
+* Contact form with submission feedback
+* Portfolio rating slider
 
 ---
 
-## ▶ How to Run the App Locally
+## 🧰 Technologies Used
 
-1. Install Streamlit:
-   ```bash
-   pip install streamlit
+* Python
+* Streamlit
+* Pandas
+* NumPy
+
+---
+
+## 💻 Installation Guide
+
+Follow these steps to run the project locally.
+
+### 1️⃣ Install Python
+
+Download Python from:
+https://www.python.org/
+
+Make sure to check:
+✔ Add Python to PATH
+
+Verify installation:
+
+```bash
+python --version
+```
+
+---
+
+### 2️⃣ Create a Virtual Environment (Recommended)
+
+```bash
+python -m venv streamlit_env
+```
+
+Activate environment:
+
+**Windows**
+
+```bash
+streamlit_env\Scripts\activate
+```
+
+**Mac / Linux**
+
+```bash
+source streamlit_env/bin/activate
+```
+
+---
+
+### 3️⃣ Install Required Packages
+
+```bash
+pip install streamlit pandas numpy
+```
+
+---
+
+### 4️⃣ Run the Application
+
+Navigate to the project folder:
+
+```bash
+cd your_project_folder
+```
+
+Run Streamlit:
+
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser at:
+
+```
+http://localhost:8501
+```
+
+---
+
+## ☁️ Deploying to Streamlit Community Cloud (Optional)
+
+1. Upload project to GitHub
+2. Go to https://share.streamlit.io
+3. Click **New App**
+4. Connect your repository
+5. Select `app.py`
+6. Deploy
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I learned how to:
+
+* Build interactive web apps using Streamlit
+* Design multi-page navigation
+* Use data visualization tools
+* Implement user input components
+* Structure UI layouts effectively
+* Deploy web apps to the cloud
+
+---
+
+## 👤 Author
+
+Nikolai Javier Jr.
+Student / Developer
+
+with Github Account:
+Yoshi: 
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
