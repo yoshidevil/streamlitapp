@@ -156,13 +156,13 @@ Through this project, I learned how to:
 
 ## 👤 Author
 
-Nikolai Javier Jr.
-Student / Developer
+* Nikolai Javier Jr.
+* Student / Developer
 
-with My Github Accounts:
+## 👤 Github Accounts
 
-Yoshi: https://github.com/yoshidevil
-Peach: https://github.com/iampeachy
+* Yoshi: https://github.com/yoshidevil
+* Peach: https://github.com/iampeachy
 
 ---
 
