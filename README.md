@@ -168,3 +168,13 @@ Through this project, I learned how to:
 ## 📄 License
 
 This project is for educational purposes.
+
+---
+
+## 👨‍💻⚙️🚀 Deployment
+
+* https://appapp-uy6bl54wqbpn3ilfwosa2m14.streamlit.app/
+
+---
+
+## 🙏
